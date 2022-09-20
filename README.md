@@ -1,12 +1,10 @@
-# Unit 5 — How do you like them apps?
-
-![Financial Planner](Images/financial-planner.png)
+Monte Carlo and APIs for Retirement Plan
 
 ## Background
 
 The consumer division of Harold's company has decided to offer budgeting and financial planning services to customers. They want to build a report for customers that links to their banking and investment accounts and automatically refreshes the data and charts on login. However, some of the calculations are tricky, and Harold could really use some help connecting the accounts and simulating the retirement investment projections. Luckily, there are APIs available to obtain account transactions and fetch retirement portfolio prices.
 
-In this homework assignment, you will help Harold complete the following tasks:
+Help Harold complete the following tasks:
 
 1. [Budget Analysis with Plaid](#Budget-Analysis)
 2. [Retirement Planner](#Retirement-Planner)
@@ -114,15 +112,3 @@ Harold was really impressed with your work on this planner, but commented that 3
 [IEX Financial API Docs](https://addisonlynch.github.io/iexfinance/stable/)
 
 For the Monte Carlo simulation, start out by running 100 simulations for one year of returns, and when you have the code worked out, run the simulation at 100–500 simulations for 30 years (this takes a long time).
-
-- - -
-
-### Submission
-
-* Create Jupyter Notebooks for the analysis and planner and host the notebooks on GitHub.
-* Include a Markdown Financial Planner report that summarizes your assumptions and finding and include this report in your GitHub repo.
-* Submit the link to your GitHub project to Bootcampspot.
-
-- - -
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
